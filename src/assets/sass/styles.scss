@@ -1,0 +1,15 @@
+@import 'config/variables.scss';
+@import 'config/layout.scss';
+@import 'config/colors.scss';
+
+@import 'utilities/spcaing.scss';
+
+@import 'base/fonts.scss';
+@import 'base/global.scss';
+@import 'base/links.scss';
+@import 'base/typography.scss';
+
+$background-color: silver;
+body{
+    background-color: $background-color;
+}
